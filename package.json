@@ -43,6 +43,6 @@
     "watchify-server": "^1.0.2"
   },
   "peerDependencies": {
-    "mapbox-gl": "^0.44.1"
+    "mapbox-gl": "^1.12.0"
   }
 }
